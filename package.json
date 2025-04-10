@@ -58,6 +58,7 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{Djonali}"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   }
 }

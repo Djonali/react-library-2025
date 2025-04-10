@@ -1,5 +1,5 @@
 {
-  "name": "@Djonali/react-library-2025",
+  "name": "@djonali/react-library-2025",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.cjs.js",
